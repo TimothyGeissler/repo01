@@ -15,7 +15,8 @@ public class JavaApplication10 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hi");
+        Class c = new Class();
+        System.out.println(c.Method());
     }
     
 }
